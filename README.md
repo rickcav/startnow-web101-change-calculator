@@ -1,0 +1,1 @@
+The change calculator project implements the use of javaScript "math" or the math system that javaScript offers.  Input the cost of an item and the amount of money paid: the program calculates the remainder and divides that sum into pennies, nickles, dimes, quarters and dollars.
